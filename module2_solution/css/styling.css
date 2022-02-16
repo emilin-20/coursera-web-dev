@@ -1,1 +1,14 @@
-
+*{
+    box-sizing: border-box;
+    
+}
+h1{
+    text-align: center;
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+section{
+    background-color: grey;
+    bo
+}
